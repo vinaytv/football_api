@@ -1,0 +1,1 @@
+package com.football.assessment.model.standings;
